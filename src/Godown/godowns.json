@@ -1,0 +1,53 @@
+[
+  {
+    "godownId": 1,
+    "godownLocation": "Chennai",
+    "role": "HR"
+  },
+  {
+    "godownId": 2,
+    "godownLocation": "Coimbatore",
+    "role": "HR"
+  },
+  {
+    "godownId": 3,
+    "godownLocation": "Erode",
+    "role": "HR"
+  },
+  {
+    "godownId": 4,
+    "godownLocation": "Avadi",
+    "role": "HR"
+  },
+  {
+    "godownId": 5,
+    "godownLocation": "Trichy",
+    "role": "HR"
+  },
+  {
+    "godownId": 6,
+    "godownLocation": "Vellore",
+    "role": "HR"
+  },
+  {
+    "godownId": 7,
+    "godownLocation": "Coimbatore",
+    "email": "godown7@gmail.com",
+    "password": "qazwsx",
+    "role": "HR"
+  },
+  {
+    "godownId": 8,
+    "godownLocation": "Banglore",
+    "email": "godown8@gmail.com",
+    "password": "qazwsx",
+    "role": "admin"
+  },
+  {
+    "godownLocation": "Banglore",
+    "email": "godown9@gmail.com",
+    "password": "qazwsx",
+    "godownId": 9,
+    "role": "admin"
+  }
+]
